@@ -1,2 +1,2 @@
 # GoogleARCore
-https://github.com/google-ar-unreal/UnrealEngine.git
+https://github.com/google-ar/arcore-unreal-sdk.git
